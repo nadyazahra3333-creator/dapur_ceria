@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1, "name": "Homemade Waffle", "category": "Sarapan", "emoji": "🧇",
+    "duration": 30, "servings": 2, "level": "Pemula", "rating": 4.8,
+    "description": "Waffle renyah di luar dan lembut di dalam, enak dengan buah segar.",
+    "ingredients": ["2 cup tepung terigu", "1,5 cup susu cair", "2 butir telur", "2 sdm gula", "Stroberi dan blueberry"],
+    "steps": ["Campur tepung dan gula.", "Tambahkan telur dan susu, aduk hingga halus.", "Panggang adonan di cetakan waffle hingga keemasan.", "Sajikan dengan buah segar."]
+  },
+  {
+    "id": 2, "name": "Pancake Berry", "category": "Sarapan", "emoji": "🥞",
+    "duration": 25, "servings": 3, "level": "Pemula", "rating": 4.6,
+    "description": "Pancake tebal dengan topping buah berry dan madu.",
+    "ingredients": ["1 cup tepung terigu", "1 butir telur", "1 cup susu", "Madu", "Buah berry"],
+    "steps": ["Campur semua bahan kering.", "Masukkan telur dan susu, aduk rata.", "Tuang ke wajan anti lengket, masak tiap sisi 2 menit.", "Tata dan beri madu serta berry."]
+  },
+  {
+    "id": 3, "name": "Nasi Goreng Telur", "category": "Makan Siang", "emoji": "🍳",
+    "duration": 20, "servings": 2, "level": "Pemula", "rating": 4.7,
+    "description": "Nasi goreng sederhana dengan telur mata sapi, cocok untuk makan siang cepat.",
+    "ingredients": ["2 piring nasi putih", "3 siung bawang putih", "2 sdm kecap manis", "2 butir telur", "Garam secukupnya"],
+    "steps": ["Tumis bawang putih hingga harum.", "Masukkan nasi dan kecap, aduk rata.", "Tambahkan garam, angkat.", "Goreng telur mata sapi dan taruh di atas nasi."]
+  },
+  {
+    "id": 4, "name": "Salad Ayam Segar", "category": "Makan Siang", "emoji": "🥗",
+    "duration": 15, "servings": 1, "level": "Pemula", "rating": 4.5,
+    "description": "Salad sehat dengan ayam suwir, selada, dan saus lemon.",
+    "ingredients": ["100 g dada ayam rebus", "Selada", "1 tomat", "1 mentimun", "Perasan lemon dan minyak zaitun"],
+    "steps": ["Suwir ayam rebus.", "Potong sayuran sesuai selera.", "Campur semua bahan.", "Siram dengan lemon dan minyak zaitun."]
+  },
+  {
+    "id": 5, "name": "Cheesecake Blueberry", "category": "Dessert", "emoji": "🍰",
+    "duration": 60, "servings": 6, "level": "Menengah", "rating": 4.9,
+    "description": "Cheesecake lembut dengan saus blueberry manis asam.",
+    "ingredients": ["200 g biskuit", "100 g mentega leleh", "300 g krim keju", "100 g gula", "Saus blueberry"],
+    "steps": ["Hancurkan biskuit, campur mentega, padatkan di loyang.", "Kocok krim keju dan gula.", "Tuang ke atas dasar biskuit, dinginkan 4 jam.", "Beri saus blueberry sebelum disajikan."]
+  },
+  {
+    "id": 6, "name": "Cupcake Vanila", "category": "Dessert", "emoji": "🧁",
+    "duration": 45, "servings": 8, "level": "Menengah", "rating": 4.7,
+    "description": "Cupcake lembut dengan frosting krim warna pastel.",
+    "ingredients": ["150 g tepung terigu", "100 g gula", "2 butir telur", "100 g mentega", "Pewarna makanan"],
+    "steps": ["Kocok mentega dan gula hingga pucat.", "Masukkan telur, lalu tepung.", "Panggang 20 menit pada 180°C.", "Hias dengan frosting setelah dingin."]
+  }
+]
