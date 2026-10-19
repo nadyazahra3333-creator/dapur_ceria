@@ -5,7 +5,7 @@ Dibuat untuk UTS Mobile Programming Semester Ganjil 2025/2026.
 
 **Nama:** Nadya Clarisa Az-zahra
 **NIM:** 240605110166
-**Kelas:** Information System F
+**Kelas:** Mobile Programming L
 
 ## Tema dan Tujuan
 Dapur Ceria membantu pengguna menemukan resep masakan sehari-hari berdasarkan kategori
